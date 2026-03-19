@@ -53,29 +53,6 @@ function App() {
         </div>
       </section>
 
-      {/* Philosophy Section */}
-      <section className="py-24 px-6">
-        <div className="max-w-6xl mx-auto">
-          <ArtDecoDivider variant="stepped" />
-
-          <div className="grid md:grid-cols-2 gap-16 items-center">
-            <div>
-              <p className="text-primary tracking-[0.2em] uppercase text-sm mb-4">Моя философия</p>
-              <h2 className="font-serif text-4xl md:text-5xl text-foreground mb-6 leading-tight text-balance">
-                Где традиция встречает вдохновение
-              </h2>
-            </div>
-            <div className="space-y-6">
-              <p className="text-muted-foreground leading-relaxed text-lg">
-                Каждое украшение — это история. В своей работе я обращаюсь к богатому наследию татарского ювелирного искусства: орнаментам, символам и техникам, которые передавались из поколения в поколение.
-              </p>
-              <p className="text-muted-foreground leading-relaxed text-lg">
-                Я создаю украшения вручную, вкладывая в каждое изделие частицу себя. А на мастер-классах делюсь этим мастерством с теми, кто хочет не просто носить красивое, но и понимать его смысл.
-              </p>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* Services Section */}
       <section className="py-24 px-6 bg-card/50">

@@ -23,7 +23,7 @@ function App() {
           <p className="text-primary tracking-[0.3em] uppercase text-sm mb-6">Авторские украшения</p>
 
           <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-foreground mb-6 leading-tight">
-            <span className="text-gold-gradient">Татарские</span> украшения
+            <span className="text-gold-gradient">Алсу</span> Сибгатуллина
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed mb-12">
@@ -178,14 +178,14 @@ function App() {
           <div className="flex flex-col items-center gap-6">
             <div className="flex items-center gap-4">
               <div className="w-12 h-px bg-primary" />
-              <span className="font-serif text-xl text-foreground">Татарские украшения</span>
+              <span className="font-serif text-xl text-foreground">Алсу Сибгатуллина</span>
               <div className="w-12 h-px bg-primary" />
             </div>
             <p className="text-muted-foreground text-sm tracking-wider text-center">
               Авторские украшения ручной работы · Мастер-классы по татарскому этническому искусству
             </p>
             <p className="text-muted-foreground/50 text-xs">
-              © 2024 Авторские татарские украшения. Все права защищены.
+              © 2024 Алсу Сибгатуллина. Все права защищены.
             </p>
           </div>
         </div>

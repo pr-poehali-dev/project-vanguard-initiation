@@ -11,13 +11,13 @@ function App() {
         <ArtDecoSunburst />
 
         <div className="relative z-10 text-center max-w-4xl mx-auto">
-          {/* Decorative top element */}
-          <div className="flex justify-center mb-8">
-            <div className="flex items-center gap-4">
-              <div className="w-16 h-px bg-primary" />
-              <div className="w-3 h-3 rotate-45 border border-primary" />
-              <div className="w-16 h-px bg-primary" />
-            </div>
+          {/* Logo */}
+          <div className="flex justify-center mb-6">
+            <img
+              src="https://cdn.poehali.dev/projects/d1481361-0163-47a8-8d5c-7ff986300558/bucket/844ea79e-c1f4-4964-aaf1-34871013e9eb.jpg"
+              alt="Дизайнер Алсу Сибгатуллина"
+              className="w-56 md:w-72 rounded-sm opacity-95"
+            />
           </div>
 
           <p className="text-primary tracking-[0.3em] uppercase text-sm mb-6">Авторские украшения</p>
